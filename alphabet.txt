@@ -1,5 +1,6 @@
 ABCDEF 
 HIJK
 LMNOP
-QPS
+QPS 
+WXY and Z
 Now I know my ABC's
